@@ -1,4 +1,4 @@
-# Snipcart + GatsbyJS + DatoCMS example
+# Tripcart + GatsbyJS + DatoCMS Demo
 
 ## Deploy on DatoCMS
 
